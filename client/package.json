@@ -1,7 +1,7 @@
 {
-  "name": "web3.0",
-  "private": true,
-  "version": "0.0.0",
+  "name": "web3.0_send_transaction",
+  "private": false,
+  "version": "0.0.2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -20,5 +20,14 @@
     "postcss": "^8.4.14",
     "tailwindcss": "^3.0.24",
     "vite": "^2.9.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joe061005/web3.0_with_react_solidity"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joe061005/web3.0_with_react_solidity/issues"
+  },
+  "homepage": "https://github.com/joe061005/web3.0_with_react_solidity#readme"
 }
